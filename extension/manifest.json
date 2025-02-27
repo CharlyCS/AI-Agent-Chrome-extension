@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Memetic Chat AI",
+    "version": "1.0",
+    "description": "Un chatbot memético integrado con OpenAI y AWS Lambda.",
+    "icons": {
+      "128": "Uni-logo_transparente_granate.png"
+    },
+    "host_permissions": [
+        "https://qpfef368k7.execute-api.us-east-1.amazonaws.com/*",
+        "https://en.wikipedia.org/wiki/War_of_the_currents*",
+        "https://www.showerthoughts.org/"
+      ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": ["storage"],
+
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "Uni-logo_transparente_granate.png"
+    }
+  }
+  

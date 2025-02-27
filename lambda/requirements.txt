@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-pinecone
+langchain-ore
+pinecone
+python-dotenv
+serpapi
