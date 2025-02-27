@@ -28,7 +28,7 @@ Este proyecto combina una extensión de Chrome con un backend en AWS Lambda y AP
    - `SERPAPI_KEY` 
 4. Asegúrate de que Lambda tenga permisos para acceder a internet. Habilita el CORS
 
-### 2️⃣ **Configuración de la Extensión de Chrome**
+### **Configuración de la Extensión de Chrome**
 1. Clona el repositorio:
    ```sh
    git clone https://github.com/CharlyCS/AI-Agent-Chrome-extension.git
